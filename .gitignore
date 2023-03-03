@@ -1,2 +1,8 @@
 *.class
 *.log
+scala-assignment/target/
+scala-assignment/project/
+scala-assignment/build.sbt
+scala-assignment/.idea/
+scala-assignment/.bsp/
+/.idea/ 
