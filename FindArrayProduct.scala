@@ -1,4 +1,5 @@
 class FindArrayProduct(val array:Array[Int]) {
+  // Method for calculating the product of elements in array
   def arrayElements :Unit ={
     var product  = 1
     for(index <- 0 to (array.length-1)){

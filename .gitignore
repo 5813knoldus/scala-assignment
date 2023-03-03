@@ -1,1 +1,7 @@
 # empty gitignore, to be able to commit initial src directory layout
+/Scala
+/.gitignore
+ArraySum.scala
+FindProduct.scala
+
+
